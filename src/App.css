@@ -43,3 +43,17 @@ background-color: deepskyblue;
 .selected {
   background-color: brown;
 }
+
+.available {
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
+  background-color: rgb(49, 201, 49);
+}
+
+.lost{
+  height: calc(50vh - 60px);
+  padding: 30px;
+  margin-left: 50px;
+  background-color: lightgray;
+}
